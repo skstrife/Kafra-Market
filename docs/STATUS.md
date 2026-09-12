@@ -1,0 +1,1 @@
+Current checkpoint: Alpha 1.127. Continue from docs/HANDOFF_2026-09-11.md.
