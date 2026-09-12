@@ -33,7 +33,7 @@ Engine Windows x86 1.2.118:
 
 Hotfix OF4 listo:
 
-`483e352dfd77b3d80159ce7ea592152b4db6d515b66716f9b8fc80a5b10a1e56  Kafra_Yuno_OF4_HOTFIX_1.129_READY.zip`
+`e5249db2ea19e13a4bff45ea4a86ed326c2d7e94009cc9ab6ba3e2b1e5264443  Kafra_Yuno_OF4_HOTFIX_1.129_READY.zip`
 
 Fuente privada buildable:
 
